@@ -1,15 +1,14 @@
-body{
-  background-color: #f0f0f0;
+.body{
+  background-color: #605858;
   }
 .colored-header {
   background-color: #007bff;
   color: #fff;
-  padding 10px;
+
 }
 .colored-paragraph {
   background-color:
-  color: #fff;
-  padding: 10px;
+  color #fff;
 }
 .name {
   color: #dc3545;
@@ -29,5 +28,32 @@ header {
   color: #fff;
 }
 header a {
-  color: #ffc107;
+  color: #007bff;
 }
+.body-class {
+  background-color: #605858;
+}
+.header-class {
+  background-color: #333;
+}
+.nav-class {
+  background-color: #6c757d;
+}
+.nav-class a.active {
+  font-weight: bold;
+}
+.title-class {
+  color: #6610f2;
+}
+.section-title-class {
+  color: #6610f2;
+}
+
+.text-class {
+  color: #fff;
+}
+
+.image-class {
+  border:2px #007bff;
+}
+
