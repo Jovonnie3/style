@@ -1,0 +1,36 @@
+<html lang="en">
+  
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=devive-width, initial-scale=1.0">
+    <title>About Me</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header>
+      <h1>
+        About Me
+      </h1>
+    </header>
+    <nav>
+    <ul>
+      <li><a href="index.html">Homepage</a></li>
+       <li><a href="aboutme.html">About Me</a></li>
+       <li><a href="resume.html">Resume</a></li>
+       <li><a href="contact.html">Contact Info</a></li>
+      </ul>
+    </nav>
+    <main>
+    <h2>
+      Jovonnie Bautista
+      </h2>
+      <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fpreview.redd.it%2Fsome-cool-wallpapers-v0-cdqb4kqa47da1.jpg%3Fwidth%3D640%26crop%3Dsmart%26auto%3Dwebp%26s%3Dddffdf5c5d3ddd21ed790ad8e36732a1e4a48924&tbnid=eD6WJg_0EYXxaM&vet=12ahUKEwjXt4S446SEAxW1G9AFHVJ9AzEQMygaegUIARC7AQ..i&imgrefurl=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwallpapers%2Fcomments%2F10gwayb%2Fsome_cool_wallpapers%2F&docid=83OUTWkHDb8ChM&w=640&h=426&q=cool%20images&ved=2ahUKEwjXt4S446SEAxW1G9AFHVJ9AzEQMygaegUIARC7AQ" alt="Profile Picture">
+      <p>
+        Hello everyone! I am Jovonnie Bautista, I currently study computer science and the University of Health Science and Pharmacy. I am a Junior in college and I am excited to get into these courses and strengthen my coding skills as the school year progresses.
+      </p>
+      <p>
+        I am a student athlete. I play baseball for my school. I currently play shortstop and I am excited for the upcoming spring season. I also like to play video gamed listen to music during my spare time. My favortie music artist I listen to is Rod Wave. I don't have a favorite genre of music I have a playlist for every genre depending on what I feel like listening to that hour. I like to be outdoors and hangout with my friends.
+      </p>
+    </main>
+  </body>
+</html>
