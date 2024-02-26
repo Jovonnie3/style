@@ -1,0 +1,33 @@
+body{
+  background-color: #f0f0f0;
+  }
+.colored-header {
+  background-color: #007bff;
+  color: #fff;
+  padding 10px;
+}
+.colored-paragraph {
+  background-color:
+  color: #fff;
+  padding: 10px;
+}
+.name {
+  color: #dc3545;
+  } 
+.brief-intro {
+  color: #17a2b8;
+}
+.colored-label {
+  color: #6610f2;
+}
+.colored-input, .colored-textarea {
+  background-color: #6c757d;
+  color: #fff;
+}
+header {
+  background-color: #343a40;
+  color: #fff;
+}
+header a {
+  color: #ffc107;
+}
