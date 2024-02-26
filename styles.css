@@ -7,8 +7,7 @@
 
 }
 .colored-paragraph {
-  background-color:
-  color #fff;
+  background-color: #333;
 }
 .name {
   color: #dc3545;
@@ -35,9 +34,11 @@ header a {
 }
 .header-class {
   background-color: #333;
+  color: #fff;
 }
 .nav-class {
   background-color: #6c757d;
+  color: #007bff;
 }
 .nav-class a.active {
   font-weight: bold;
@@ -54,6 +55,5 @@ header a {
 }
 
 .image-class {
-  border:2px #007bff;
+  border:2px solid #007bff;
 }
-
